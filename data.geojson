@@ -10,7 +10,7 @@
       "type": "Feature",
       "properties": { "name": "Санкт-Петербург", "description": "Северная столица" },
       "geometry": { "type": "Point", "coordinates": [30.3351, 59.9343] }
-    }
+    },
     {
       "type": "Feature",
       "properties": { "name": "Казань", "description": "Третья столица" },
