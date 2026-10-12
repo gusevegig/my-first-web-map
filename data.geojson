@@ -15,6 +15,11 @@
       "type": "Feature",
       "properties": { "name": "Казань", "description": "Третья столица" },
       "geometry": { "type": "Point", "coordinates": [49.1064, 55.7963] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Междуреченск", "description": "Столица Мира" },
+      "geometry": { "type": "Point", "coordinates": [88.0804, 53.6852] }
     }
   ]
 }
