@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Москва", "description": "Столица России" },
+      "geometry": { "type": "Point", "coordinates": [37.6173, 55.7558] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Санкт-Петербург", "description": "Северная столица" },
+      "geometry": { "type": "Point", "coordinates": [30.3351, 59.9343] }
+    }
+  ]
+}
